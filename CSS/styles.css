@@ -1,0 +1,38 @@
+
+*{margin: 0;padding: 0;}
+
+
+/*HEADER*/
+.menu-link{
+    color: rgb(22, 91, 219);
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 20px;
+    display: inline-block;
+    margin-top: 75px;
+}
+
+.menu-link a{
+    color: rgb(212, 60, 0);
+    text-decoration: none;
+    background-color: rgb(4, 4, 226);
+    padding: 5px;
+    margin: 5px;
+    border-radius: 20px;
+    display: inline-block;
+}
+.menu-link a:hover{ background-color: rgb(0, 23, 124);}
+
+#main-nav{
+    background-color: burlywood;
+    height: 120px;
+    text-align: right;
+}
+.logo-holder{
+    float: left;
+    padding-left: 1px;
+    padding-top: 4px;
+    text-align: left;
+}
+
+
